@@ -1,7 +1,5 @@
 package com.cts.dto;
 
-import com.cts.model.Role;
-
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
